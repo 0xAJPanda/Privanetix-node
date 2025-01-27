@@ -1,5 +1,4 @@
 # Privanetix Node Setup
-# PrivaseaAI_Privanetix_Node
 
 Technology that attests your human liveness to protect your digital presence from bots and AI impersonations.
 
