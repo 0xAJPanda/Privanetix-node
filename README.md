@@ -1,5 +1,5 @@
 # Privanetix Node Setup
-
+![image](GiGljf4b0AAnA-q.jpg)
 Technology that attests your human liveness to protect your digital presence from bots and AI impersonations.
 
 **Raised : $15M**
